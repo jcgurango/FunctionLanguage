@@ -1,0 +1,16 @@
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.CommandLine.exe.config
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.CommandLine.exe
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.CommandLine.pdb
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.dll
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.pdb
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\obj\Debug\FunctionLanguage.CommandLine.csprojResolveAssemblyReference.cache
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\obj\Debug\GSC.FunctionLanguage.CommandLine.exe
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\obj\Debug\GSC.FunctionLanguage.CommandLine.pdb
+D:\FunctionLanguage\FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.CommandLine.exe.config
+D:\FunctionLanguage\FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.CommandLine.exe
+D:\FunctionLanguage\FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.CommandLine.pdb
+D:\FunctionLanguage\FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.dll
+D:\FunctionLanguage\FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.pdb
+D:\FunctionLanguage\FunctionLanguage.CommandLine\obj\Debug\FunctionLanguage.CommandLine.csprojResolveAssemblyReference.cache
+D:\FunctionLanguage\FunctionLanguage.CommandLine\obj\Debug\GSC.FunctionLanguage.CommandLine.exe
+D:\FunctionLanguage\FunctionLanguage.CommandLine\obj\Debug\GSC.FunctionLanguage.CommandLine.pdb

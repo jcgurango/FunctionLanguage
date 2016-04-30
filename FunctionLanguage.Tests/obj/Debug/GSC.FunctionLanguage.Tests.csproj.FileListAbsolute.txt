@@ -1,0 +1,14 @@
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.Tests.dll
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.Tests.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.dll
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.Tests\obj\Debug\GSC.FunctionLanguage.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.Tests\obj\Debug\GSC.FunctionLanguage.Tests.dll
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.Tests\obj\Debug\GSC.FunctionLanguage.Tests.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.Tests.dll
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.Tests.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.dll
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\obj\Debug\GSC.FunctionLanguage.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\obj\Debug\GSC.FunctionLanguage.Tests.dll
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\obj\Debug\GSC.FunctionLanguage.Tests.pdb

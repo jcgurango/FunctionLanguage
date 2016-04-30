@@ -1,0 +1,10 @@
+c:\users\jcman\documents\visual studio 2013\Projects\GSC.FLOp\GSC.FLOp\bin\Debug\GSC.FunctionLanguage.dll
+c:\users\jcman\documents\visual studio 2013\Projects\GSC.FLOp\GSC.FLOp\bin\Debug\GSC.FunctionLanguage.pdb
+c:\users\jcman\documents\visual studio 2013\Projects\GSC.FLOp\GSC.FLOp\obj\Debug\GSC.FunctionLanguage.dll
+c:\users\jcman\documents\visual studio 2013\Projects\GSC.FLOp\GSC.FLOp\obj\Debug\GSC.FunctionLanguage.pdb
+c:\users\jcman\documents\visual studio 2013\Projects\GSC.FLOp\GSC.FLOp\obj\Debug\GSC.FunctionLanguage.csprojResolveAssemblyReference.cache
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage\bin\Debug\GSC.FunctionLanguage.dll
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage\bin\Debug\GSC.FunctionLanguage.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage\obj\Debug\GSC.FunctionLanguage.csprojResolveAssemblyReference.cache
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage\obj\Debug\GSC.FunctionLanguage.dll
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage\obj\Debug\GSC.FunctionLanguage.pdb

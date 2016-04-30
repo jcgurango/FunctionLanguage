@@ -1,0 +1,19 @@
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.CommandLine.exe.config
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.CommandLine.exe
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.CommandLine.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.dll
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.CommandLine\obj\Debug\GSC.FunctionLanguage.CommandLine.csprojResolveAssemblyReference.cache
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.CommandLine\obj\Debug\GSC.FunctionLanguage.CommandLine.exe
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FLOp\GSC.FunctionLanguage.CommandLine\obj\Debug\GSC.FunctionLanguage.CommandLine.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.CommandLine.exe.config
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\obj\Debug\GSC.FunctionLanguage.CommandLine.exe
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\obj\Debug\GSC.FunctionLanguage.CommandLine.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.CommandLine.exe
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.CommandLine.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.dll
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.pdb
+C:\Users\jcman\Documents\Visual Studio 2013\Projects\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\obj\Debug\GSC.FunctionLanguage.CommandLine.csprojResolveAssemblyReference.cache
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\bin\Debug\GSC.FunctionLanguage.CommandLine.exe.config
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\obj\Debug\GSC.FunctionLanguage.CommandLine.exe
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.CommandLine\obj\Debug\GSC.FunctionLanguage.CommandLine.pdb

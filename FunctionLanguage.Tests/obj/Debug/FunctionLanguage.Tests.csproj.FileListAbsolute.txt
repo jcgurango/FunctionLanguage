@@ -1,0 +1,14 @@
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.Tests.dll
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.Tests.pdb
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.dll
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.pdb
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\obj\Debug\FunctionLanguage.Tests.csprojResolveAssemblyReference.cache
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\obj\Debug\GSC.FunctionLanguage.Tests.dll
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage.Tests\obj\Debug\GSC.FunctionLanguage.Tests.pdb
+D:\FunctionLanguage\FunctionLanguage.Tests\obj\Debug\FunctionLanguage.Tests.csprojResolveAssemblyReference.cache
+D:\FunctionLanguage\FunctionLanguage.Tests\obj\Debug\GSC.FunctionLanguage.Tests.dll
+D:\FunctionLanguage\FunctionLanguage.Tests\obj\Debug\GSC.FunctionLanguage.Tests.pdb
+D:\FunctionLanguage\FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.Tests.dll
+D:\FunctionLanguage\FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.Tests.pdb
+D:\FunctionLanguage\FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.dll
+D:\FunctionLanguage\FunctionLanguage.Tests\bin\Debug\GSC.FunctionLanguage.pdb

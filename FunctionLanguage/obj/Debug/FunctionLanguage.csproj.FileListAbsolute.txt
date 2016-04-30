@@ -1,0 +1,8 @@
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage\bin\Debug\GSC.FunctionLanguage.dll
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage\bin\Debug\GSC.FunctionLanguage.pdb
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage\obj\Debug\GSC.FunctionLanguage.dll
+D:\GSC.FunctionLanguage\GSC.FunctionLanguage\obj\Debug\GSC.FunctionLanguage.pdb
+D:\FunctionLanguage\FunctionLanguage\obj\Debug\GSC.FunctionLanguage.dll
+D:\FunctionLanguage\FunctionLanguage\obj\Debug\GSC.FunctionLanguage.pdb
+D:\FunctionLanguage\FunctionLanguage\bin\Debug\GSC.FunctionLanguage.dll
+D:\FunctionLanguage\FunctionLanguage\bin\Debug\GSC.FunctionLanguage.pdb

@@ -1,0 +1,5 @@
+c:\users\jcman\documents\visual studio 2013\Projects\GSC.FLOp\GSC.FLOp\bin\Debug\GSC.FLOp.dll
+c:\users\jcman\documents\visual studio 2013\Projects\GSC.FLOp\GSC.FLOp\bin\Debug\GSC.FLOp.pdb
+c:\users\jcman\documents\visual studio 2013\Projects\GSC.FLOp\GSC.FLOp\obj\Debug\GSC.FLOp.dll
+c:\users\jcman\documents\visual studio 2013\Projects\GSC.FLOp\GSC.FLOp\obj\Debug\GSC.FLOp.pdb
+c:\users\jcman\documents\visual studio 2013\Projects\GSC.FLOp\GSC.FLOp\obj\Debug\GSC.FLOp.csprojResolveAssemblyReference.cache
